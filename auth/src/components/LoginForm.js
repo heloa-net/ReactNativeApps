@@ -60,6 +60,7 @@ onLoginFail() {
           />
         </CardSection>
 
+        // Controlled component
         <CardSection>
           <Input
             label='Password'
@@ -75,6 +76,7 @@ onLoginFail() {
         </Text>
 
         <CardSection>
+          // Conditional rendering 
           {this.renderButton()}
         </CardSection>
 
