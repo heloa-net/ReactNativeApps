@@ -31,4 +31,4 @@ const styles = {
   }
 };
 
-export {Button};
+export { Button };
